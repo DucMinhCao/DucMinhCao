@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducminhcao&theme=vue)
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducminhcao)](https://github.com/ducminhcao/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducminhcao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ducminhcao)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducminhcao)](https://git.io/streak-stats)
 ![snake gif](https://github.com/DucMinhCao/DucMinhCao/blob/output/github-contribution-grid-snake.svg)
