@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comchieu3mon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comchieu3mon)](https://git.io/streak-stats)
-![snake gif](https://github.com/DucMinhCao/comchieu3mon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/comchieu3mon/blob/output/github-contribution-grid-snake.svg)
